@@ -114,8 +114,7 @@ void welcomeToQuiz(){
     string quiz1 =  "1. Programming";
     string quiz2 =  "2. Cities";
     string quiz3 =  "3. Sports";
-    string quiz4 =  "4. Movies";
-    string quiz5 =  "5. Aptitude";
+    string quiz4 =  "4. Aptitude";
 
     SetColor(11);
     cout<<"\n\n\n\t\t\t\t\tWelcome to Quiz Game\n\n\n";
@@ -134,7 +133,7 @@ void welcomeToQuiz(){
     cout<<"\t"<<quiz2<<endl;
     cout<<"\t"<<quiz3<<endl;
     cout<<"\t"<<quiz4<<endl;
-    cout<<"\t"<<quiz5<<endl;
+    
 
     int c;
 
@@ -160,12 +159,9 @@ void welcomeToQuiz(){
                 break;
             case 4:
                 ch = quiz4;
-                filename = "movies.txt";
-                break;
-            case 5:
-                ch = quiz5;
                 filename = "aptitude.txt";
                 break;
+           
             default:
                 SetColor(4);
                 cout<<"\n\tYou have entered an invalid choice.\n\n";
