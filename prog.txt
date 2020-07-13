@@ -1,0 +1,10 @@
+What is Constructor?@Function@variable@Object@a
+Constructor name is same as name of?@Object@Class@File name@b
+Which keyword is used to initialize character in cpp?@char@ch@cint@a
+Which brackets are used in arrays?@Curly@Round@Square@c
+Which Abstract data type us FIFO?@Queue@Stack@BST@b
+Which function is automatically in a program?@main@getch@strlen@a
+Exception handlers are declared with which keyword?@try@catch@throw@b
+Default return type of functions in CPP is?@char@int@void@c
+Logical expression produce which type result ?@static@garbage@boolean@c
+An operator function is created using which keyword?@function@operator@allocator@b
